@@ -11,7 +11,7 @@ Esta asignatura contribuye al ámbito de acción Proyectos de Comunicación Visu
 Al finalizar la asignatura, los estudiantes serán capaces de desarrollar documentos y plantillas para la creación de prototipos web, integrando recursos de arquitectura de la información y jerarquización
 visual.
 
-- *Profesor*: Sergio Majluf - <s.majlufjadue@unab.cl>
+- *Profesor*: Sergio Majluf - <s.majlufjadue@uandresbello.edu>
 - *Seccion 5639*: Miércoles de 14:20 a 16:30, Sala Comm 03
 - *Seccion 5640*: Miércoles de 14:20 a 19:20, Sala Comm 04
 
