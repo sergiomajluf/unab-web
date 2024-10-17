@@ -60,7 +60,7 @@ Desarrollar documentos y plantillas para la creacióno de prototipos funcionales
 
 Se requiere una asistencvia mínima del 75% para optar a aprobar y/o dar examen.
 
-La asistencia es registrada por el profesor y en paralelo con el sitemna UNAB de QR. Lleguemos a la hora, estemos activamente presentes.
+La asistencia es registrada por el profesor y en paralelo con el sitemna UNAB de QR. Lleguemos a la hora, estemos **activamente presentes**.
 
 ## Cultura de Feedback permanente
 
@@ -74,7 +74,7 @@ Durante la asignatura algunas de las tareas y trabajos en clase tienen carácter
 
 El curso contará con 4 notas que en su conjunto generan la Nota de Presentación.
 
-    + Ejercicios: 25%
+    + Ejercicios: 10%
     + Proyecto A: 25%
     + Proyecto B: 25%
     + Participación: 10%
