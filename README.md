@@ -11,7 +11,7 @@ Esta asignatura contribuye al ámbito de acción Proyectos de Comunicación Visu
 Al finalizar la asignatura, los estudiantes serán capaces de desarrollar documentos y plantillas para la creación de prototipos web, integrando recursos de arquitectura de la información y jerarquización
 visual.
 
-- *Profesor*: Sergio Majluf - <s.majlufjadue@uandresbello.edu>
+- *Profesor*: Sergio Majluf - <s.majlufjadue@unab.cl>
 - *Seccion 5639*: Miércoles de 14:20 a 16:30, Sala Comm 03
 - *Seccion 5640*: Miércoles de 14:20 a 19:20, Sala Comm 04
 
@@ -60,7 +60,7 @@ Desarrollar documentos y plantillas para la creacióno de prototipos funcionales
 
 Se requiere una asistencvia mínima del 75% para optar a aprobar y/o dar examen.
 
-La asistencia es registrada por el profesor y en paralelo con el sitemna UNAB de QR. Lleguemos a la hora, estemos **activamente presentes**.
+La asistencia es registrada por el profesor y en paralelo con el sitemna UNAB de QR. Lleguemos a la hora, estemos activamente presentes.
 
 ## Cultura de Feedback permanente
 
@@ -74,7 +74,7 @@ Durante la asignatura algunas de las tareas y trabajos en clase tienen carácter
 
 El curso contará con 4 notas que en su conjunto generan la Nota de Presentación.
 
-    + Ejercicios: 10%
+    + Ejercicios: 25%
     + Proyecto A: 25%
     + Proyecto B: 25%
     + Participación: 10%
@@ -118,7 +118,7 @@ indicando curso y NRC en el asunto. Esperen respuestas razonablemente a tiempo.
 | 11 de septiembre de 2024 | II | **sesión online:** Presentación de metodologías de Diseño de Información: Arquitectura de Información, Técnicas de Jerarquización, Mapas de Sitio,  Wireframes |  Evolución de estructura HTML + CSS.<br> **Subir a Canvas para CALIFICACIÓN** |
 | 18 de septiembre de 2024 | -- | FIESTAS PATRIAS | -- |
 | 25 de septiembre de 2024 | II | Diseño de Información: actividad en clase (FigJam) para desarrollar estructura, jerarquía y wireframes de baja fidelidad. | -- |
-| 2 de octubre de 2024  | II & III | Profundización de Wireframe en mediana fidelidad.<br>Introducción a **Prototipado Interactivo con Figma** |
+| 2 de octubre de 2024  | II & III | Profundización de Wireframe en mediana fidelidad. Trabajo en clase.<br>Introducción a **Prototipado Interactivo con Figma** |
 | 9 de octubre de 2024  | III | Sistema de Diseño Visual para web | Revisión preliminar de prototipo |
 | 16 de octubre de 2024  | III | Servidores, Github, FTP y Aplicaciones tipo Wordpress.<br>Profundización de CSS y HTML para sitio Web | Revisión preliminar de Sistema de Diseño |
 | 23 de octubre de 2024  | III | Profundización y cierre unidad de Diseño Web desde la comunicación visual. | Desarrollo y entrega final de Wireframe de App Móvil interactivo, con en alta fidelidad, con Sistema de Diseño.<br>**Subir a Canvas** | |
@@ -126,6 +126,6 @@ indicando curso y NRC en el asunto. Esperen respuestas razonablemente a tiempo.
 | 6 de noviembre de 2024  | III | Introducción a JavaScript, utilizando código base y librería P5.js | .. |
 | 13 de noviembre de 2024  | III | APIs, uso y manejo de variables. Profundización de CSS y HTML para sitio Web  | .. |
 | 20 de noviembre de 2024  | III | Representación de Datos | .. |
-| 27 de noviembre de 2024  | III | Integración de Javascript, CSS y HTML en sitio Web | Inicio de Afiche interactivo |
-| 4 de noviembre de 2024  | II & III | **Clase final** | Publicación en Canvas de de afiche interactivo. |
+| 27 de noviembre de 2024  | III | **Clase final** Integración de Javascript, CSS y HTML en sitio Web | Afiche interactivo |
+| 4 de noviembre de 2024  | -- | -- |  |
 | 11 de diciembre de 2024  |  | EXAMEN | Evaluación FINAL |
