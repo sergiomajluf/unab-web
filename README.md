@@ -127,5 +127,5 @@ indicando curso y NRC en el asunto. Esperen respuestas razonablemente a tiempo.
 | 13 de noviembre de 2024  | III | APIs, uso y manejo de variables. Profundización de CSS y HTML para sitio Web  | .. |
 | 20 de noviembre de 2024  | III | Representación de Datos | .. |
 | 27 de noviembre de 2024  | III | **Clase final** Integración de Javascript, CSS y HTML en sitio Web | Afiche interactivo |
-| 4 de noviembre de 2024  | -- | -- |  |
+| 4 de diciembre de 2024  | -- | -- |  |
 | 11 de diciembre de 2024  |  | EXAMEN | Evaluación FINAL |
